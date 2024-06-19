@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Mi chiamo Rachid e sono un neodiplomato java all'accademia LABFORTRAINING di Roma,</h2>
+<h2 align="left">Sono Rachid.Ti ringrazio per aver visitato il mio profilo GitHub e ti do il benvenuto.</h2>
 
 ###
 
